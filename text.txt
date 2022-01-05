@@ -1,11 +1,15 @@
 Line 1
+Single line shift
 Line 2
+Now we are doing multi line shifts...
 Line 3
 Line 4
 Line 5
-Line 6
-Line 7
+
 Line 8
 Line 9
 Line 10
+Line 6 (wait, did this line move?!)
 We end with a rather long line, else it is too boring!
+
+Good lord this stuff is difficult... (where did Line 7 go)
